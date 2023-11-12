@@ -27,6 +27,13 @@ for i in k:
 ![Screenshot 2023-11-12 105200](https://github.com/Faith-Hall/CryptoClustering/assets/135525815/cb451ac4-8b8a-49a8-95d7-2a42e0c6074d)
 ---
 ### Cluster Cryptocurrencies with K-means Using the Original Scaled Data
+- initialize the K-Means model using the best value for k
+- fit the K-Means model using the scaled data
+- predict the clusters to group the cryptocurrencies using the scaled data
+- create a copy of the dataframe
+- display the data in a scatter plot:
+
+ ![Screenshot 2023-11-12 105410](https://github.com/Faith-Hall/CryptoClustering/assets/135525815/eddc2d9f-6d05-404b-8916-4d9b43b82eb8)
 ---
 ### Optimize Clusters with Principal Component Analysis
 ---
